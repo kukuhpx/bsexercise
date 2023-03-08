@@ -1,4 +1,4 @@
-###BOOTSTRAP EXERCISE
+### BOOTSTRAP EXERCISE
 
 The repository for Bootstrap exercise, there is a DEV NOTES to note all important things here.
 The repo was also included the GIT COMMAND and GITHUB COMMAND for additional purpose.
