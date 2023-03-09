@@ -1,7 +1,17 @@
-BS Media Queries Breakpoint:
-1. xs: < 576px
-2. sm: > 576px
-3. md: > 768px
-4. lg: > 992px
-5. xl: > 1200px
-6. xxl: > 1400px
+### **BS Media Queries Breakpoint:**
+1. xs: < 576px.
+2. sm: > 576px.
+3. md: > 768px.
+4. lg: > 992px.
+5. xl: > 1200px.
+6. xxl: > 1400px.
+
+### **How to Install Bootstrao Documentation Offline**
+
+*Offline documentation is very useful to learn Bootstrap from zero. Follow the step below to install Bootstrap offline:*
+1. Download and install the [Node.js](https://nodejs.org/en/download/).
+2. Download the [Bootstrap Source](https://github.com/twbs/bootstrap/archive/v5.3.0-alpha1.zip).
+3. Extract the Bootstrap source.
+4. Go to extracted Bootstrap's folder.
+5. Type "npm install".
+6. Type "npm run docs-serve".
