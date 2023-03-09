@@ -1,7 +1,7 @@
 #### **BOOTSTRAP EXERCISE**
-*The repokfsitory for Bootstrap exercise, there is a DEV NOTES to note all important things here.
-The repo was also included the GIT COMMAND and GITHUB COMMAND for additional purpose.*
+*The repository for Bootstrap exercise.*
 #### **GIT COMMAND**
+*Use these some command to use Git.*
 1. Checking GIT Version:
     > git -v
 2. Creating a New GIT Repo:
@@ -52,8 +52,8 @@ The repo was also included the GIT COMMAND and GITHUB COMMAND for additional pur
     > git fetch [remote's name] [branch's name]
 22. Downloading Your Repository in GitHub:
     > git clone [your git url in github]
-
 #### **GITHUB COMMAND**
+*Use these GitHub command to use GitHub.*
 1.  Change GitHub's remote URL:
     > git remote set-url [remote's name] [new remote's url]
 2.  Fetching GitHub's repo:
