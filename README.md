@@ -1,8 +1,6 @@
 #### **BOOTSTRAP EXERCISE**
-
 *The repokfsitory for Bootstrap exercise, there is a DEV NOTES to note all important things here.
 The repo was also included the GIT COMMAND and GITHUB COMMAND for additional purpose.*
-
 #### **GIT COMMAND**
 1. Checking GIT Version:
     > git -v
