@@ -1,4 +1,6 @@
-### **BS Media Queries Breakpoint:**
+#### **BS Media Queries Breakpoint:**
+
+*Use these breakpoint to know Bootstrap Query*
 1. xs: < 576px.
 2. sm: > 576px.
 3. md: > 768px.
@@ -6,7 +8,7 @@
 5. xl: > 1200px.
 6. xxl: > 1400px.
 
-### **How to Install Bootstrao Documentation Offline**
+#### **How to Install Bootstrao Documentation Offline**
 
 *Offline documentation is very useful to learn Bootstrap from zero. Follow the step below to install Bootstrap offline:*
 1. Download and install the [Node.js](https://nodejs.org/en/download/).
