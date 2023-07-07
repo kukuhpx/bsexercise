@@ -3,14 +3,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../src/css/bootstrap.min.css">
-    <script type="text/javascript" src="../src/js/bootstrap.bundle.min.js"></script>
-    <title>BS - 2 Layout Web</title>
+    <!-- Bootstrap Framework -->
+    <link rel="stylesheet" href="../_src/css/bootstrap.min.css">
+    <script type="text/javascript" src="../_src/js/bootstrap.bundle.min.js"></script>
+    <title>BS - Layout</title>
     <style>
+        body {background-color: #4b4949;}
         .cover {
             height: 400px;
-            background: #d89bde;
+            background: hsla(0, 0%, 40%, 0.855);
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
+        .row {
+            margin-top: 15px;
+            height: 500px;
+        }
+        .panel, .content {border-radius: 12.5px;}
+        .panel {background-color: #d1d1d1;}
+        .content {background-color: #e6e6e6;}
     </style>
 </head>
 <body>
@@ -29,7 +41,13 @@
         </div>
     </nav>
     <div class="container-fluid cover">
-        <h1 class="position-relative py-0 px-0">Lorem Ipsum</h1>
+        <h1>Lorem Ipsum</h1>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-3 panel"></div>
+            <div class="col content ms-3"></div>
+        </div>
     </div>
 </body>
 </html>
